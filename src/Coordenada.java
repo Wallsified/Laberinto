@@ -1,5 +1,6 @@
 /**
  * Clase para tener objetos de tipo Coordenada en el laberinto.
+ * 
  * @author Wallsified
  * @author gentle_earthquake
  * @version 1.0
@@ -18,8 +19,8 @@ public class Coordenada {
 
   /**
    * Constructor inicializador de la coordenada (0,0).
-   * No todos los laberintos inician aqui, aunque se puede 
-   * volver una constante. 
+   * No todos los laberintos inician aqui, aunque se puede
+   * volver una constante.
    */
   public Coordenada() {
     x = y = 0;
